@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/Design-Pattern.iml
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+simple-factory-pattern/simple-factory-pattern.iml
+simple-factory-pattern/src/main/resources/
+simple-factory-pattern/src/test/
